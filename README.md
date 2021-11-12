@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilia
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning: databricks, python (pyspark), power bi, django, node.js, sql
+- 👀 Interested in data engineering
+- 🌱 Currently learning: databricks, python (pyspark), power bi, django, node.js, sql
 - 💞️ I’m looking to collaborate on anything I'm currently learning :)
 - 📫 How to reach me: email can be seen in the profile
 
